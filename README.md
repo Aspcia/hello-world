@@ -1,2 +1,7 @@
 # hello-world
-Just another repository.
+
+Hello everyone, 
+
+Just a wanderer.
+
+Wandering while wondering how whales don't wobble.
